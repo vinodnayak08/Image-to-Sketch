@@ -4,4 +4,4 @@
 <br />
 
 
-<img src="https://github.com/vinodnayak08/Image-to-Sketch/blob/main/Input.png" width="450" height="300">&nbsp;&nbsp;<img src="https://github.com/vinodnayak08/Image-to-Sketch/blob/main/Output.png" width="450" height="300">
+<img src="https://github.com/vinodnayak08/Image-to-Sketch/blob/main/Input.png" width="400" height="280">&nbsp;&nbsp;<img src="https://github.com/vinodnayak08/Image-to-Sketch/blob/main/Output.png" width="400" height="280">
